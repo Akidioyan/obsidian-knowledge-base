@@ -21,12 +21,11 @@
 - Put Codex work logs in `80-Agent-Logs/`.
 - Put inactive or completed material in `90-Archive/`.
 
-## Existing Chinese Memory Layers
+## Retired Memory Layers
 
-- Keep the existing folders unless the user asks to reorganize them:
-  - `短期记忆层：闪念笔记/`
-  - `工作记忆层：主题笔记/`
-  - `长期记忆层：永久笔记/`
+- The old folders `短期记忆层：闪念笔记/`, `工作记忆层：主题笔记/`, and `长期记忆层：永久笔记/` have been retired.
+- Do not recreate those folders unless the user explicitly asks.
+- The former `工作记忆层：主题笔记/编程入门/` collection now lives in `10-Projects/编程入门/`.
 - When connecting new notes to existing material, prefer links over moving files.
 
 ## Codex Workflow
