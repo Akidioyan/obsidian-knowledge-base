@@ -1,0 +1,15 @@
+.DS_Store
+.trash/
+.Trash/
+
+# Obsidian local settings, plugin code, workspace state, and private plugin data.
+# Keep this out of Git unless you explicitly want to version Obsidian settings.
+.obsidian/
+
+# OS/editor temporary files
+*.tmp
+*.swp
+*~
+
+# Cloud-drive placeholder files
+.WeDrive
